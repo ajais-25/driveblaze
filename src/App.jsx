@@ -1,7 +1,13 @@
+import FourthSection from "./components/FourthSection";
+import InfiniteScroll from "./components/InfiniteScroll";
+import ThirdSection from "./components/ThirdSection";
+
 function App() {
   return (
     <>
-      <div className="bg-green-200">Hello</div>
+      {/* <InfiniteScroll />
+      <ThirdSection /> */}
+      <FourthSection />
     </>
   );
 }
