@@ -8,7 +8,7 @@ import startUpIndia from "../assets/startUpIndia.png";
 
 const InfiniteScroll = () => {
   return (
-    <div className="w-full flex justify-around items-center">
+    <div className="w-full flex justify-around mt-14 items-center">
       <div className="font-semibold text-gray-500">
         Industry veterans
         <br />

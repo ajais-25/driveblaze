@@ -11,7 +11,7 @@ const listItems = [
 
 const FourthSection = () => {
   return (
-    <div className="h-screen flex justify-around px-24">
+    <div className="h-screen flex justify-around mt-32 px-24">
       <div className="w-1/2 px-16 flex flex-col justify-center">
         <div className="font-bold text-4xl text-blue-900">
           Discover New Online Stress-free learning Solutions with ORION

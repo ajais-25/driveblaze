@@ -11,7 +11,7 @@ const listItems = [
 
 const ThirdSection = () => {
   return (
-    <div className="h-screen  flex justify-around px-24">
+    <div className="h-screen  flex justify-around mt-32 px-24">
       <div className="w-1/2 overflow-hidden ml-4">
         <img className="object-contain" src={thirdSection} alt="" />
       </div>
