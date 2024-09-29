@@ -4,6 +4,7 @@ import ThirdSection from "./components/ThirdSection";
 import PricingSection from "./components/PricingSection";
 import Hero from "./components/Hero";
 import Faq from "./components/Faq";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <FourthSection />
       <PricingSection />
       <Faq />
+      <Footer />
     </>
   );
 }
