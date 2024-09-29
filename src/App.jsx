@@ -1,13 +1,17 @@
 import FourthSection from "./components/FourthSection";
 import InfiniteScroll from "./components/InfiniteScroll";
 import ThirdSection from "./components/ThirdSection";
+import PricingSection from "./components/PricingSection";
+import Hero from "./components/Hero";
 
 function App() {
   return (
     <>
-      {/* <InfiniteScroll />
-      <ThirdSection /> */}
+      <Hero />
+      <InfiniteScroll />
+      <ThirdSection />
       <FourthSection />
+      <PricingSection />
     </>
   );
 }
